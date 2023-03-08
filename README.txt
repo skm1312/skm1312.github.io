@@ -11,7 +11,7 @@ Credits:
 		Unsplash (unsplash.com)
 
 	Background Image:
-		Photo by Ujjwal Jajoo on unslapsh (https://unsplash.com/ko/@uj1109?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+		Photo by Ujjwal Jajoo on unsplash
 
 	Icons:
 		Font Awesome (fontawesome.io)
