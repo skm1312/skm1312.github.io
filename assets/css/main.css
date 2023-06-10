@@ -302,7 +302,7 @@ input, select, textarea {
 	}
 
 	#bg {
-		background-size: 2250px auto;
+		background-size: contain;
 		width: 6750px;
 	}
 
@@ -357,7 +357,7 @@ input, select, textarea {
 		background-image: url("images/overlay-pattern.png"), url("images/overlay.svg");
 		background-position: top left, center center;
 		background-repeat: repeat, no-repeat;
-		background-size: auto, cover;
+		background-size: contain;
 		height: 100%;
 		left: 0;
 		opacity: 0;
@@ -806,8 +806,7 @@ input, select, textarea {
 		}
 
 		#bg {
-			background-size: 1500px auto;
-			width: 4500px;
+			background-size: contain;
 		} }
 
 /* Normal */
@@ -888,8 +887,7 @@ input, select, textarea {
 		}
 
 		#bg {
-			background-size: 750px auto;
-			width: 2250px;
+			background-size: contain;
 		} }
 
 /* Mobile */
@@ -974,8 +972,7 @@ input, select, textarea {
 		}
 
 		#bg {
-			background-size: 300px auto;
-			width: 900px;
+			background-size: contain;
 		}
 
 	/* Header */
@@ -1072,8 +1069,7 @@ input, select, textarea {
 		}
 
 		#bg {
-			background-size: 412.5px auto;
-			width: 1237.5px;
+			background-size: contain;
 		}
 
 	/* Header */
